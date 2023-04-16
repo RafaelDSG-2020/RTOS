@@ -2,7 +2,7 @@
 
 <hr>
 
-<p align="center"> <img src="https://github.com/RafaelDSG-2020/RTOS/blob/main/Logo_UFC.jpeg" alt="Logo da UFC"> </p>
+<p align="center"> <img src="https://github.com/RafaelDSG-2020/RTOS/blob/main/Logo_UFC.png" alt="Logo da UFC"> </p>
 <p align="center">Página inicial das Praticas que serão feitas na diciplina de Sistemas de Tempo Real</p>
 
 ## Tecnologias utilizadas durante o cadeira
