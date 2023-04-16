@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/RafaelDSG-2020/RTOS/blob/main/FREERTOS.jpg" alt="Utilizando o FREERTOS na STM32F103C8T6"> </p>
+<p align="center"> <img src="https://github.com/RafaelDSG-2020/RTOS/blob/main/FREERTOS.png" alt="Utilizando o FREERTOS na STM32F103C8T6"> </p>
 
 <hr>
 
