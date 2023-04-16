@@ -1,0 +1,923 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-strlen-stub.o)
+                              miniprintf.o (strlen)
+/home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+                              uarthwfc.o (gpio_set_mode)
+/home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                              uarthwfc.o (rcc_clock_setup_in_hse_8mhz_out_24mhz)
+/home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+                              uarthwfc.o (gpio_toggle)
+/home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+                              uarthwfc.o (usart_set_baudrate)
+/home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+                              /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o) (usart_send)
+/home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+                              uarthwfc.o (rcc_periph_clock_enable)
+/home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+                              /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o) (flash_set_ws)
+/home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+                              (reset_handler)
+/home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+                              /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o) (cm3_assert_failed)
+/home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+                              /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o) (flash_get_status_flags)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 uarthwfc.o
+ .data          0x0000000000000000        0x0 uarthwfc.o
+ .bss           0x0000000000000000        0x0 uarthwfc.o
+ .text          0x0000000000000000        0x0 miniprintf.o
+ .data          0x0000000000000000        0x0 miniprintf.o
+ .bss           0x0000000000000000        0x0 miniprintf.o
+ .text.mini_sputc
+                0x0000000000000000       0x16 miniprintf.o
+ .text.mini_vprintf_uncooked
+                0x0000000000000000       0x30 miniprintf.o
+ .text.mini_snprintf
+                0x0000000000000000       0x44 miniprintf.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-strlen-stub.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-strlen-stub.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .text          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .data          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .bss           0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .text.gpio_set_eventout
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .text.gpio_primary_remap
+                0x0000000000000000       0x14 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .text.gpio_secondary_remap
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .data          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .bss           0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_osc_ready_int_clear
+                0x0000000000000000       0x5c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_osc_ready_int_enable
+                0x0000000000000000       0x5c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_osc_ready_int_disable
+                0x0000000000000000       0x5c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_osc_ready_int_flag
+                0x0000000000000000       0x54 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_css_int_clear
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_css_int_flag
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_osc_off
+                0x0000000000000000       0x58 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_css_enable
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_css_disable
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_set_pll2_multiplication_factor
+                0x0000000000000000       0x14 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_set_pll3_multiplication_factor
+                0x0000000000000000       0x14 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_rtc_clock_enabled_flag
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_enable_rtc_clock
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_set_rtc_clock_source
+                0x0000000000000000       0x90 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_set_usbpre
+                0x0000000000000000       0x18 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_set_prediv1
+                0x0000000000000000       0x14 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_set_prediv2
+                0x0000000000000000       0x14 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_set_prediv1_source
+                0x0000000000000000       0x18 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_system_clock_source
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_clock_setup_in_hsi_out_64mhz
+                0x0000000000000000       0x74 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_clock_setup_in_hsi_out_48mhz
+                0x0000000000000000       0x84 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_clock_setup_in_hsi_out_24mhz
+                0x0000000000000000       0x70 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_clock_setup_in_hse_8mhz_out_72mhz
+                0x0000000000000000       0x8c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_clock_setup_in_hse_12mhz_out_72mhz
+                0x0000000000000000       0x8c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_clock_setup_in_hse_16mhz_out_72mhz
+                0x0000000000000000       0x8c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_clock_setup_in_hse_25mhz_out_72mhz
+                0x0000000000000000       0xac /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_backupdomain_reset
+                0x0000000000000000       0x18 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x0000000000000000      0xa90 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x0000000000000000      0x34e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x22 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x0000000000000000       0xfa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x58 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x0000000000000000      0x1b4 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .text          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .data          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .bss           0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .text.gpio_set
+                0x0000000000000000        0x4 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .text.gpio_clear
+                0x0000000000000000        0x6 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .text.gpio_get
+                0x0000000000000000        0x6 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .text.gpio_port_read
+                0x0000000000000000        0x6 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .text.gpio_port_write
+                0x0000000000000000        0x4 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .text.gpio_port_config_lock
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000      0xa90 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000      0x34e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000       0x22 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000       0xfa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000       0x58 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000      0x1b4 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000       0x76 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000      0xdfd /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .text          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .data          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .bss           0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .text.usart_disable
+                0x0000000000000000        0xa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .text.usart_recv_blocking
+                0x0000000000000000       0x12 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .text.usart_enable_rx_dma
+                0x0000000000000000        0xa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .text.usart_disable_rx_dma
+                0x0000000000000000        0xa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .text.usart_enable_tx_dma
+                0x0000000000000000        0xa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .text.usart_disable_tx_dma
+                0x0000000000000000        0xa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .text.usart_enable_rx_interrupt
+                0x0000000000000000        0xa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .text.usart_disable_rx_interrupt
+                0x0000000000000000        0xa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .text.usart_enable_tx_interrupt
+                0x0000000000000000        0xa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .text.usart_disable_tx_interrupt
+                0x0000000000000000        0xa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .text.usart_enable_error_interrupt
+                0x0000000000000000        0xa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .text.usart_disable_error_interrupt
+                0x0000000000000000        0xa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_macro   0x0000000000000000      0xa90 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_macro   0x0000000000000000      0x34e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_macro   0x0000000000000000       0x22 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_macro   0x0000000000000000       0xfa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_macro   0x0000000000000000       0x58 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_macro   0x0000000000000000      0x1b4 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_macro   0x0000000000000000      0x82c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .text          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .data          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .bss           0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .text.usart_recv
+                0x0000000000000000        0x8 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .text.usart_wait_recv_ready
+                0x0000000000000000        0x8 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .text.usart_get_flag
+                0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_macro   0x0000000000000000      0xa90 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_macro   0x0000000000000000      0x34e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_macro   0x0000000000000000       0x22 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_macro   0x0000000000000000       0xfa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_macro   0x0000000000000000       0x58 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_macro   0x0000000000000000      0x1b4 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_macro   0x0000000000000000       0x94 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_macro   0x0000000000000000      0x29e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_macro   0x0000000000000000      0x82c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .text          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .data          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .bss           0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_peripheral_enable_clock
+                0x0000000000000000        0x8 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_peripheral_disable_clock
+                0x0000000000000000        0xa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_peripheral_reset
+                0x0000000000000000        0x8 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_peripheral_clear_reset
+                0x0000000000000000        0xa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_periph_clock_disable
+                0x0000000000000000       0x1e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_periph_reset_pulse
+                0x0000000000000000       0x24 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_periph_reset_hold
+                0x0000000000000000        0x4 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_periph_reset_release
+                0x0000000000000000        0x4 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_set_mco
+                0x0000000000000000       0x14 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_osc_bypass_enable
+                0x0000000000000000       0x28 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .text.rcc_osc_bypass_disable
+                0x0000000000000000       0x28 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000      0xa90 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000      0x34e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000       0x22 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000       0xfa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000       0x58 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000      0x1b4 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000      0x82c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .text          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .data          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .bss           0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_prefetch_buffer_enable
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_prefetch_buffer_disable
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_unlock
+                0x0000000000000000       0x24 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_lock
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_clear_pgerr_flag
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_clear_eop_flag
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_clear_wrprterr_flag
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_clear_bsy_flag
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_wait_for_last_operation
+                0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_program_word
+                0x0000000000000000       0x18 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_unlock_option_bytes
+                0x0000000000000000       0x18 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_erase_option_bytes
+                0x0000000000000000       0x34 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .text.flash_program_option_bytes
+                0x0000000000000000       0x34 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x0000000000000000      0xa90 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x0000000000000000      0x34e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x0000000000000000       0x22 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x0000000000000000       0xfa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x0000000000000000       0x58 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x0000000000000000      0x1b4 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x0000000000000000       0xdc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x0000000000000000       0x82 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .text          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .data          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .bss           0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000000000      0xa90 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000000000       0x58 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000000000      0x34e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000000000       0x22 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000000000       0xfa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .text          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .data          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .bss           0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .text.cm3_assert_failed
+                0x0000000000000000        0x2 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .text.cm3_assert_failed_verbose
+                0x0000000000000000        0x6 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .debug_info    0x0000000000000000      0x104 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .debug_abbrev  0x0000000000000000       0x98 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .debug_loc     0x0000000000000000       0x94 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .debug_aranges
+                0x0000000000000000       0x28 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .debug_ranges  0x0000000000000000       0x18 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x0000000000000000       0x41 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x0000000000000000      0xa90 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x0000000000000000      0x34e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x0000000000000000       0x22 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x0000000000000000       0xfa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .debug_macro   0x0000000000000000       0x16 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .debug_line    0x0000000000000000       0xed /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .debug_str     0x0000000000000000     0x3d39 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .comment       0x0000000000000000       0x5a /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .debug_frame   0x0000000000000000       0x38 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(assert.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .group         0x0000000000000000        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .text          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .data          0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .bss           0x0000000000000000        0x0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .text.flash_halfcycle_enable
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .text.flash_halfcycle_disable
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .text.flash_unlock_upper
+                0x0000000000000000       0x34 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .text.flash_lock_upper
+                0x0000000000000000       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .text.flash_clear_pgerr_flag_upper
+                0x0000000000000000       0x20 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .text.flash_clear_eop_flag_upper
+                0x0000000000000000       0x20 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .text.flash_clear_wrprterr_flag_upper
+                0x0000000000000000       0x20 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .text.flash_clear_bsy_flag_upper
+                0x0000000000000000       0x20 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .text.flash_clear_status_flags
+                0x0000000000000000       0x38 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .text.flash_get_status_flags
+                0x0000000000000000       0x28 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .text.flash_program_half_word
+                0x0000000000000000       0x64 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .text.flash_erase_page
+                0x0000000000000000       0x7c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .text.flash_erase_all_pages
+                0x0000000000000000       0x48 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_info    0x0000000000000000      0x325 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_abbrev  0x0000000000000000      0x14f /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_loc     0x0000000000000000       0x90 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_aranges
+                0x0000000000000000       0x80 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_ranges  0x0000000000000000       0x70 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x0000000000000000       0x80 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x0000000000000000      0xa90 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x0000000000000000      0x34e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x0000000000000000       0x22 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x0000000000000000       0xfa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x0000000000000000       0x58 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x0000000000000000      0x1b4 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x0000000000000000       0xdc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_macro   0x0000000000000000       0x82 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_line    0x0000000000000000      0x452 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_str     0x0000000000000000     0x5284 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .comment       0x0000000000000000       0x5a /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .debug_frame   0x0000000000000000      0x10c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x0000000008000000 0x0000000000010000 xr
+ram              0x0000000020000000 0x0000000000005000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD uarthwfc.o
+LOAD miniprintf.o
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a
+END GROUP
+LOAD /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6//rtos/libwwg/libwwg.a
+LOAD /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a
+END GROUP
+
+.text           0x0000000008000000      0x958
+ *(.vectors)
+ .vectors       0x0000000008000000      0x150 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+                0x0000000008000000                vector_table
+ *(.text*)
+ .text.uart_putc
+                0x0000000008000150        0xc uarthwfc.o
+ .text.uart_printf
+                0x000000000800015c       0x20 uarthwfc.o
+ .text.startup.main
+                0x000000000800017c      0x12c uarthwfc.o
+                0x000000000800017c                main
+ .text.mini_write
+                0x00000000080002a8       0x16 miniprintf.o
+ .text.mini_putc
+                0x00000000080002be       0x2a miniprintf.o
+ .text.mini_pad
+                0x00000000080002e8       0x24 miniprintf.o
+ .text.internal_vprintf
+                0x000000000800030c      0x16c miniprintf.o
+ .text.mini_vprintf_cooked
+                0x0000000008000478       0x30 miniprintf.o
+                0x0000000008000478                mini_vprintf_cooked
+ .text          0x00000000080004a8       0x5c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-strlen-stub.o)
+                0x00000000080004a8                strlen
+ .text.gpio_set_mode
+                0x0000000008000504       0x5e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+                0x0000000008000504                gpio_set_mode
+ *fill*         0x0000000008000562        0x2 
+ .text.rcc_osc_on.part.0
+                0x0000000008000564       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .text.rcc_is_osc_ready
+                0x0000000008000574       0x5c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                0x0000000008000574                rcc_is_osc_ready
+ .text.rcc_wait_for_osc_ready
+                0x00000000080005d0       0x10 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                0x00000000080005d0                rcc_wait_for_osc_ready
+ .text.rcc_osc_on
+                0x00000000080005e0       0x54 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                0x00000000080005e0                rcc_osc_on
+ .text.rcc_set_sysclk_source
+                0x0000000008000634       0x14 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                0x0000000008000634                rcc_set_sysclk_source
+ .text.rcc_set_pll_multiplication_factor
+                0x0000000008000648       0x14 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                0x0000000008000648                rcc_set_pll_multiplication_factor
+ .text.rcc_set_pll_source
+                0x000000000800065c       0x14 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                0x000000000800065c                rcc_set_pll_source
+ .text.rcc_set_pllxtpre
+                0x0000000008000670       0x14 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                0x0000000008000670                rcc_set_pllxtpre
+ .text.rcc_set_adcpre
+                0x0000000008000684       0x14 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                0x0000000008000684                rcc_set_adcpre
+ .text.rcc_set_ppre2
+                0x0000000008000698       0x14 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                0x0000000008000698                rcc_set_ppre2
+ .text.rcc_set_ppre1
+                0x00000000080006ac       0x14 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                0x00000000080006ac                rcc_set_ppre1
+ .text.rcc_set_hpre
+                0x00000000080006c0       0x14 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                0x00000000080006c0                rcc_set_hpre
+ .text.rcc_clock_setup_in_hse_8mhz_out_24mhz
+                0x00000000080006d4       0x88 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                0x00000000080006d4                rcc_clock_setup_in_hse_8mhz_out_24mhz
+ .text.gpio_toggle
+                0x000000000800075c       0x12 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+                0x000000000800075c                gpio_toggle
+ *fill*         0x000000000800076e        0x2 
+ .text.usart_set_baudrate
+                0x0000000008000770       0x28 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+                0x0000000008000770                usart_set_baudrate
+ .text.usart_set_databits
+                0x0000000008000798       0x12 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+                0x0000000008000798                usart_set_databits
+ .text.usart_set_stopbits
+                0x00000000080007aa        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+                0x00000000080007aa                usart_set_stopbits
+ .text.usart_set_parity
+                0x00000000080007b6        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+                0x00000000080007b6                usart_set_parity
+ .text.usart_set_mode
+                0x00000000080007c2        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+                0x00000000080007c2                usart_set_mode
+ .text.usart_set_flow_control
+                0x00000000080007ce        0xc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+                0x00000000080007ce                usart_set_flow_control
+ .text.usart_enable
+                0x00000000080007da        0xa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+                0x00000000080007da                usart_enable
+ .text.usart_send_blocking
+                0x00000000080007e4       0x16 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+                0x00000000080007e4                usart_send_blocking
+ .text.usart_send
+                0x00000000080007fa        0x8 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+                0x00000000080007fa                usart_send
+ .text.usart_wait_send_ready
+                0x0000000008000802        0x8 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+                0x0000000008000802                usart_wait_send_ready
+ .text.rcc_periph_clock_enable
+                0x000000000800080a       0x1c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+                0x000000000800080a                rcc_periph_clock_enable
+ *fill*         0x0000000008000826        0x2 
+ .text.flash_set_ws
+                0x0000000008000828       0x14 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+                0x0000000008000828                flash_set_ws
+ .text.blocking_handler
+                0x000000000800083c        0x2 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+                0x000000000800083c                usart3_isr
+                0x000000000800083c                rtc_isr
+                0x000000000800083c                tim7_isr
+                0x000000000800083c                adc1_2_isr
+                0x000000000800083c                tim1_trg_com_isr
+                0x000000000800083c                usb_hp_can_tx_isr
+                0x000000000800083c                tim6_isr
+                0x000000000800083c                usb_wakeup_isr
+                0x000000000800083c                blocking_handler
+                0x000000000800083c                tim5_isr
+                0x000000000800083c                otg_fs_isr
+                0x000000000800083c                spi1_isr
+                0x000000000800083c                exti2_isr
+                0x000000000800083c                dma1_channel6_isr
+                0x000000000800083c                can_rx1_isr
+                0x000000000800083c                dma1_channel5_isr
+                0x000000000800083c                dma2_channel5_isr
+                0x000000000800083c                usart1_isr
+                0x000000000800083c                usage_fault_handler
+                0x000000000800083c                tim8_trg_com_isr
+                0x000000000800083c                can2_rx0_isr
+                0x000000000800083c                tim1_brk_isr
+                0x000000000800083c                can2_rx1_isr
+                0x000000000800083c                tim1_cc_isr
+                0x000000000800083c                sdio_isr
+                0x000000000800083c                eth_isr
+                0x000000000800083c                dma1_channel4_isr
+                0x000000000800083c                tim8_brk_isr
+                0x000000000800083c                dma2_channel4_5_isr
+                0x000000000800083c                pvd_isr
+                0x000000000800083c                rcc_isr
+                0x000000000800083c                flash_isr
+                0x000000000800083c                uart4_isr
+                0x000000000800083c                rtc_alarm_isr
+                0x000000000800083c                exti15_10_isr
+                0x000000000800083c                hard_fault_handler
+                0x000000000800083c                exti1_isr
+                0x000000000800083c                i2c1_ev_isr
+                0x000000000800083c                dma2_channel1_isr
+                0x000000000800083c                spi2_isr
+                0x000000000800083c                tim8_up_isr
+                0x000000000800083c                dma2_channel2_isr
+                0x000000000800083c                exti3_isr
+                0x000000000800083c                adc3_isr
+                0x000000000800083c                tim3_isr
+                0x000000000800083c                usart2_isr
+                0x000000000800083c                usb_lp_can_rx0_isr
+                0x000000000800083c                i2c2_er_isr
+                0x000000000800083c                i2c2_ev_isr
+                0x000000000800083c                uart5_isr
+                0x000000000800083c                fsmc_isr
+                0x000000000800083c                dma1_channel1_isr
+                0x000000000800083c                exti4_isr
+                0x000000000800083c                mem_manage_handler
+                0x000000000800083c                can2_tx_isr
+                0x000000000800083c                exti9_5_isr
+                0x000000000800083c                dma2_channel3_isr
+                0x000000000800083c                dma1_channel7_isr
+                0x000000000800083c                tim1_up_isr
+                0x000000000800083c                can2_sce_isr
+                0x000000000800083c                tim4_isr
+                0x000000000800083c                dma1_channel2_isr
+                0x000000000800083c                i2c1_er_isr
+                0x000000000800083c                can_sce_isr
+                0x000000000800083c                tim8_cc_isr
+                0x000000000800083c                tamper_isr
+                0x000000000800083c                eth_wkup_isr
+                0x000000000800083c                bus_fault_handler
+                0x000000000800083c                wwdg_isr
+                0x000000000800083c                dma1_channel3_isr
+                0x000000000800083c                spi3_isr
+                0x000000000800083c                tim2_isr
+                0x000000000800083c                exti0_isr
+ .text.null_handler
+                0x000000000800083e        0x2 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+                0x000000000800083e                null_handler
+                0x000000000800083e                sv_call_handler
+                0x000000000800083e                pend_sv_handler
+                0x000000000800083e                debug_monitor_handler
+                0x000000000800083e                sys_tick_handler
+                0x000000000800083e                nmi_handler
+ .text.reset_handler
+                0x0000000008000840       0x8c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+                0x0000000008000840                reset_handler
+                0x00000000080008cc                . = ALIGN (0x4)
+ *(.rodata*)
+ .rodata.main.str1.1
+                0x00000000080008cc       0x8b uarthwfc.o
+                0x0000000008000958                . = ALIGN (0x4)
+ *fill*         0x0000000008000957        0x1 
+
+.glue_7         0x0000000008000958        0x0
+ .glue_7        0x0000000008000958        0x0 linker stubs
+
+.glue_7t        0x0000000008000958        0x0
+ .glue_7t       0x0000000008000958        0x0 linker stubs
+
+.vfp11_veneer   0x0000000008000958        0x0
+ .vfp11_veneer  0x0000000008000958        0x0 linker stubs
+
+.v4_bx          0x0000000008000958        0x0
+ .v4_bx         0x0000000008000958        0x0 linker stubs
+
+.iplt           0x0000000008000958        0x0
+ .iplt          0x0000000008000958        0x0 uarthwfc.o
+
+.rel.dyn        0x0000000008000958        0x0
+ .rel.iplt      0x0000000008000958        0x0 uarthwfc.o
+
+.preinit_array  0x0000000008000958        0x0
+                0x0000000008000958                . = ALIGN (0x4)
+                0x0000000008000958                __preinit_array_start = .
+ *(.preinit_array)
+                0x0000000008000958                __preinit_array_end = .
+
+.init_array     0x0000000008000958        0x0
+                0x0000000008000958                . = ALIGN (0x4)
+                0x0000000008000958                __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x0000000008000958                __init_array_end = .
+
+.fini_array     0x0000000008000958        0x0
+                0x0000000008000958                . = ALIGN (0x4)
+                0x0000000008000958                __fini_array_start = .
+ *(.fini_array)
+ *(SORT_BY_NAME(.fini_array.*))
+                0x0000000008000958                __fini_array_end = .
+
+.ARM.extab
+ *(.ARM.extab*)
+
+.ARM.exidx      0x0000000008000958        0x0
+                0x0000000008000958                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000008000958                __exidx_end = .
+                0x0000000008000958                . = ALIGN (0x4)
+                0x0000000008000958                _etext = .
+
+.data           0x0000000020000000        0xc load address 0x0000000008000958
+                0x0000000020000000                _data = .
+ *(.data*)
+ .data.rcc_ahb_frequency
+                0x0000000020000000        0x4 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                0x0000000020000000                rcc_ahb_frequency
+ .data.rcc_apb1_frequency
+                0x0000000020000004        0x4 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                0x0000000020000004                rcc_apb1_frequency
+ .data.rcc_apb2_frequency
+                0x0000000020000008        0x4 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                0x0000000020000008                rcc_apb2_frequency
+                0x000000002000000c                . = ALIGN (0x4)
+                0x000000002000000c                _edata = .
+                0x0000000008000958                _data_loadaddr = LOADADDR (.data)
+
+.igot.plt       0x000000002000000c        0x0 load address 0x0000000008000964
+ .igot.plt      0x000000002000000c        0x0 uarthwfc.o
+
+.bss            0x000000002000000c        0x0 load address 0x0000000008000964
+ *(.bss*)
+ *(COMMON)
+                0x000000002000000c                . = ALIGN (0x4)
+                0x000000002000000c                _ebss = .
+
+/DISCARD/
+ *(.eh_frame)
+                0x000000002000000c                . = ALIGN (0x4)
+                0x000000002000000c                end = .
+                0x0000000020005000                PROVIDE (_stack = (ORIGIN (ram) + LENGTH (ram)))
+OUTPUT(uarthwfc.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000     0x4a1c
+ .debug_info    0x0000000000000000      0x6f3 uarthwfc.o
+ .debug_info    0x00000000000006f3     0x1134 miniprintf.o
+ .debug_info    0x0000000000001827      0x941 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-strlen-stub.o)
+ .debug_info    0x0000000000002168      0x1e6 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_info    0x000000000000234e     0x1283 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_info    0x00000000000035d1      0x24e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_info    0x000000000000381f      0x501 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_info    0x0000000000003d20      0x1ad /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_info    0x0000000000003ecd      0x5f7 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_info    0x00000000000044c4      0x287 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_info    0x000000000000474b      0x2d1 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_abbrev   0x0000000000000000     0x1207
+ .debug_abbrev  0x0000000000000000      0x22b uarthwfc.o
+ .debug_abbrev  0x000000000000022b      0x3d4 miniprintf.o
+ .debug_abbrev  0x00000000000005ff      0x1d2 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-strlen-stub.o)
+ .debug_abbrev  0x00000000000007d1       0xd0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_abbrev  0x00000000000008a1      0x2e1 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_abbrev  0x0000000000000b82      0x116 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_abbrev  0x0000000000000c98      0x129 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_abbrev  0x0000000000000dc1       0xc8 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_abbrev  0x0000000000000e89      0x15d /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_abbrev  0x0000000000000fe6       0xdc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_abbrev  0x00000000000010c2      0x145 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_loc      0x0000000000000000     0x1551
+ .debug_loc     0x0000000000000000      0x189 uarthwfc.o
+ .debug_loc     0x0000000000000189      0x9a9 miniprintf.o
+ .debug_loc     0x0000000000000b32       0x25 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-strlen-stub.o)
+ .debug_loc     0x0000000000000b57      0x134 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_loc     0x0000000000000c8b      0x39c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_loc     0x0000000000001027       0xbe /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_loc     0x00000000000010e5      0x172 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_loc     0x0000000000001257       0x99 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_loc     0x00000000000012f0       0x6f /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_loc     0x000000000000135f       0xca /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_loc     0x0000000000001429      0x128 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_aranges  0x0000000000000000      0x490
+ .debug_aranges
+                0x0000000000000000       0x30 uarthwfc.o
+ .debug_aranges
+                0x0000000000000030       0x58 miniprintf.o
+ .debug_aranges
+                0x0000000000000088       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-strlen-stub.o)
+ .debug_aranges
+                0x00000000000000a8       0x38 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_aranges
+                0x00000000000000e0      0x158 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_aranges
+                0x0000000000000238       0x50 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_aranges
+                0x0000000000000288       0xb8 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_aranges
+                0x0000000000000340       0x40 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_aranges
+                0x0000000000000380       0x58 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_aranges
+                0x00000000000003d8       0x88 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_aranges
+                0x0000000000000460       0x30 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_ranges   0x0000000000000000      0x4c8
+ .debug_ranges  0x0000000000000000       0x50 uarthwfc.o
+ .debug_ranges  0x0000000000000050       0x90 miniprintf.o
+ .debug_ranges  0x00000000000000e0       0x10 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-strlen-stub.o)
+ .debug_ranges  0x00000000000000f0       0x28 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_ranges  0x0000000000000118      0x1b8 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_ranges  0x00000000000002d0       0x40 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_ranges  0x0000000000000310       0xa8 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_ranges  0x00000000000003b8       0x30 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_ranges  0x00000000000003e8       0x48 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_ranges  0x0000000000000430       0x78 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_ranges  0x00000000000004a8       0x20 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_line     0x0000000000000000     0x2953
+ .debug_line    0x0000000000000000      0x2be uarthwfc.o
+ .debug_line    0x00000000000002be      0x4c1 miniprintf.o
+ .debug_line    0x000000000000077f      0x14e /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-strlen-stub.o)
+ .debug_line    0x00000000000008cd      0x264 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_line    0x0000000000000b31      0xb85 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_line    0x00000000000016b6      0x27a /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_line    0x0000000000001930      0x480 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_line    0x0000000000001db0      0x26f /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_line    0x000000000000201f      0x2a3 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_line    0x00000000000022c2      0x395 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_line    0x0000000000002657      0x2fc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_str      0x0000000000000000     0xf635
+ .debug_str     0x0000000000000000      0x4f8 uarthwfc.o
+                                        0x599 (size before relaxing)
+ .debug_str     0x00000000000004f8      0x4a0 miniprintf.o
+                                        0x6cc (size before relaxing)
+ .debug_str     0x0000000000000998      0x13f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-strlen-stub.o)
+                                        0x5ae (size before relaxing)
+ .debug_str     0x0000000000000ad7     0x7fc0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+                                       0x8146 (size before relaxing)
+ .debug_str     0x0000000000008a97     0x304f /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+                                       0x79f9 (size before relaxing)
+ .debug_str     0x000000000000bae6       0x6e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+                                       0x8144 (size before relaxing)
+ .debug_str     0x000000000000bb54     0x10ec /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+                                       0x7f30 (size before relaxing)
+ .debug_str     0x000000000000cc40       0x2d /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+                                       0x7d6a (size before relaxing)
+ .debug_str     0x000000000000cc6d      0x35b /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+                                       0x737c (size before relaxing)
+ .debug_str     0x000000000000cfc8      0x181 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+                                       0x51f7 (size before relaxing)
+ .debug_str     0x000000000000d149     0x24ec /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+                                       0x62a3 (size before relaxing)
+
+.comment        0x0000000000000000       0xa7
+ .comment       0x0000000000000000       0x59 uarthwfc.o
+                                         0x5a (size before relaxing)
+ .comment       0x0000000000000059       0x5a miniprintf.o
+ .comment       0x0000000000000059       0x4e /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-strlen-stub.o)
+                                         0x4f (size before relaxing)
+ .comment       0x00000000000000a7       0x5a /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .comment       0x00000000000000a7       0x5a /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .comment       0x00000000000000a7       0x5a /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .comment       0x00000000000000a7       0x5a /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .comment       0x00000000000000a7       0x5a /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .comment       0x00000000000000a7       0x5a /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .comment       0x00000000000000a7       0x5a /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .comment       0x00000000000000a7       0x5a /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.ARM.attributes
+                0x0000000000000000       0x2d
+ .ARM.attributes
+                0x0000000000000000       0x2d uarthwfc.o
+ .ARM.attributes
+                0x000000000000002d       0x2d miniprintf.o
+ .ARM.attributes
+                0x000000000000005a       0x2d /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x0000000000000087       0x2d /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .ARM.attributes
+                0x00000000000000b4       0x2d /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .ARM.attributes
+                0x00000000000000e1       0x2d /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .ARM.attributes
+                0x000000000000010e       0x2d /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .ARM.attributes
+                0x000000000000013b       0x2d /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .ARM.attributes
+                0x0000000000000168       0x2d /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .ARM.attributes
+                0x0000000000000195       0x2d /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .ARM.attributes
+                0x00000000000001c2       0x2d /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_frame    0x0000000000000000      0x964
+ .debug_frame   0x0000000000000000       0x74 uarthwfc.o
+ .debug_frame   0x0000000000000074      0x110 miniprintf.o
+ .debug_frame   0x0000000000000184       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(lib_a-strlen-stub.o)
+ .debug_frame   0x00000000000001a4       0x60 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_frame   0x0000000000000204      0x2e0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_frame   0x00000000000004e4       0x80 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_frame   0x0000000000000564      0x170 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_frame   0x00000000000006d4       0x60 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_frame   0x0000000000000734       0xd0 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_frame   0x0000000000000804      0x120 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_frame   0x0000000000000924       0x40 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+
+.debug_macro    0x0000000000000000     0x3610
+ .debug_macro   0x0000000000000000       0x70 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x0000000000000070      0xa90 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x0000000000000b00      0x34e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x0000000000000e4e       0x22 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x0000000000000e70       0xfa /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x0000000000000f6a       0x58 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x0000000000000fc2      0x1b4 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x0000000000001176       0x76 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x00000000000011ec      0xdfd /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio.o)
+ .debug_macro   0x0000000000001fe9       0x97 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x0000000000002080       0x16 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x0000000000002096      0x82c /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x00000000000028c2       0xdc /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x000000000000299e       0x82 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc.o)
+ .debug_macro   0x0000000000002a20       0x70 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(gpio_common_all.o)
+ .debug_macro   0x0000000000002a90       0x92 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_macro   0x0000000000002b22       0x94 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_macro   0x0000000000002bb6      0x29e /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_all.o)
+ .debug_macro   0x0000000000002e54       0x92 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(usart_common_f124.o)
+ .debug_macro   0x0000000000002ee6       0x86 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(rcc_common_all.o)
+ .debug_macro   0x0000000000002f6c       0x70 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(flash_common_f01.o)
+ .debug_macro   0x0000000000002fdc       0x87 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000003063      0x3a1 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x0000000000003404       0x6a /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
+ .debug_macro   0x000000000000346e      0x1a2 /home/rafael/curso_alura_cpp/UFC/RTOS/Pratica_0/stm32f103c8t6/libopencm3/lib/libopencm3_stm32f1.a(vector.o)
