@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</p>
+<p align="center">Página inicial das Praticas que serão feitas na diciplina de Sistemas de Tempo Real</p>
 
 ## Tecnologias utilizadas durante o cadeira
 * C
@@ -12,9 +12,9 @@
 * Toolchain
 * Linux
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
+## Praticas Desenvolvidas durante a cadeira 
+* Pratica 0 Clone e Build do Framework 
+* Pratica 1 
 
 ## Screenshots
 ![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
